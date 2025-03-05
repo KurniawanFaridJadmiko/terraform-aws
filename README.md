@@ -11,8 +11,8 @@ Proyek ini menggunakan Infrastructure as Code (IaC) dengan Terraform untuk membu
 ## Cara Menggunakan
 1. **Clone repositori ini:**
 ```bash
-git clone <repository-url>
-cd <repository-directory>
+git clone https://github.com/KurniawanFaridJadmiko/terraform-aws.git
+cd terraform-aws
 ```
 
 2. **Inisialisasi direktori Terraform:**
